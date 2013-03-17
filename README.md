@@ -1,6 +1,6 @@
 #Ruby on Rails Tuturial:first application
 
-This is the first application for [*Ruby on Rails Tutorial: Learn Rails by Example*]
+This is the first application for [*Ruby on Rails Tutorial: Learn Rails by Example*] (http://railstutorial.org/) by [Michael Hartl].
 
 == Welcome to Rails
 
